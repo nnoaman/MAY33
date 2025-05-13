@@ -1,6 +1,5 @@
 APPLICATION_CONFIGURATION_NAME=may33noeuapc233
 MSI_ID=4bc4582e-3d10-4e29-8f82-5dadcdd721a3
-ARM_SUBSCRIPTION_ID=d6c8e3b6-467e-452e-97c9-49d9de9e37da
 deployer_random_id=233
 DEPLOYER_KEYVAULT=MAY33NOEUDEP33user233
 HAS_WEBAPP=false
@@ -10,3 +9,4 @@ CONTROL_PLANE_NAME=MAY33-NOEU-DEP33
 tfstate_resource_id=/subscriptions/d6c8e3b6-467e-452e-97c9-49d9de9e37da/resourceGroups/MAY33-NOEU-SAP_LIBRARY/providers/Microsoft.Storage/storageAccounts/may33noeutfstate233
 library_random_id=233
 step=3
+ARM_SUBSCRIPTION_ID=d6c8e3b6-467e-452e-97c9-49d9de9e37da
